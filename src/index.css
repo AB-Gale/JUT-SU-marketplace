@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.admin-add-page {
+  padding-top: 40px;
+}
+
+.admin-add-page form {
+  display: flex;
+  flex-direction: column;
+}
+
+.admin-add-page button {
+  margin-top: 20px;
+}
+

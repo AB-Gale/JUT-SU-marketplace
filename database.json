@@ -1,0 +1,22 @@
+{
+  "watches": [
+    {
+      "name": "qweq",
+      "brand": "qwqew",
+      "price": 12313,
+      "year": "2222-02-02",
+      "photo": "qweq",
+      "country": "china",
+      "id": 1
+    },
+    {
+      "name": "Rolex",
+      "brand": "casio",
+      "price": 1000,
+      "year": "2003-02-22",
+      "photo": "qwew",
+      "country": "italy",
+      "id": 2
+    }
+  ]
+}
